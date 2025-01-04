@@ -2,24 +2,24 @@
 
 ## 👨‍💻 Aspiring Full-Stack Developer  
 
-### 🌟 Computer Graphics Engineer passionate about both the visual and logical aspects of website and app development.
-### 🎯 Enthusiastic about contributing to innovative projects and looking for my first professional role in the field. 
+- 🌟 Computer Graphics Engineer passionate about both the visual and logical aspects of website and app development.
+- 🎯 Enthusiastic about contributing to innovative projects and looking for my first professional role in the field. 
 
 ---
 
 ## 🛠️ Tools & Skills  
 
-### 🖥️ Languages  
-- JavaScript (ES6+), HTML, CSS, Java, Python  
+- 🖥️ Languages  
+  - JavaScript (ES6+), HTML, CSS, Java, Python  
 
-### 🏗️ Frameworks & Libraries  
-- React, Angular, Node.js, Express, Bootstrap  
+- 🏗️ Frameworks & Libraries  
+  - React, Angular, Node.js, Express, Bootstrap  
 
-### 🛢️ Databases  
-- MongoDB (NoSQL), MySQL  (RDBMS)
+- 🛢️ Databases  
+  - MongoDB (NoSQL), MySQL  (RDBMS)
 
-### ⚙️ Other Tools  
-- Git, Gulp, Webpack, VS Code, Apache NetBeans  
+- ⚙️ Other Tools  
+  - Git, Gulp, Webpack, VS Code, Apache NetBeans  
 
 ---
 
