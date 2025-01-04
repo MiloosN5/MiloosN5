@@ -5,8 +5,6 @@
 - 🌟 Computer Graphics Engineer passionate about both the visual and logical aspects of website and app development.
 - 🎯 Enthusiastic about contributing to innovative projects and looking for my first professional role in the field. 
 
----
-
 ## 🛠️ Tools & Skills  
 
 - 🖥️ Languages  
@@ -21,8 +19,6 @@
 - ⚙️ Other Tools  
   - Git, Gulp, Webpack, VS Code, Apache NetBeans  
 
----
-
 ## 🎯 Goals  
 - 🚀 **Improving Skills**: Continuously sharpening my knowledge of JavaScript, React, and backend technologies (e.g. Java & Python).  
 - 📚 **Learning New Technologies**: Staying updated with the latest trends in web development.  
@@ -32,8 +28,6 @@
 - 📝 **Collaboration**: Welcoming suggestions, feedback, and teamwork opportunities.  
 - 💡 **Becoming Better**: Striving to become a top-tier full-stack developer for applications and websites.  
 
----
-
 ## 🌟 Personal 
 - 🎨 I’m passionate about visual design and aesthetics in all forms.  
 - 🌍 I enjoy learning new languages to connect with different cultures.
@@ -41,7 +35,6 @@
   - English
   - German
 - 🏛️ Architecture design (interior, exterior ...)
-
 
 ## ✨ Message to you
 I truly appreciate you taking the time to explore my page.  
